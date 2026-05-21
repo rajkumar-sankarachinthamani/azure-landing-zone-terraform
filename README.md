@@ -9,4 +9,4 @@ implemented using Terraform and CI/CD pipelines.
 - Governance by design
 - Automation-first approach
 
-"CI test commit for Terraform Plan workflow."
+"CI test commit for Terraform Plan workflow. testing the CI"
